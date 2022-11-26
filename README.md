@@ -1,6 +1,6 @@
 ### Pre-requisites
 * VS 2022
-* Microsoft.NET.Test.Sdk: 17.4.0
+* Microsoft .Net Framework 4.8 SDK: https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
 
 ### Setup Guide
 1. Clone or download the project
